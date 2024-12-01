@@ -1,0 +1,6 @@
+@back_Lozgar_HostAddress = http://localhost:5108
+
+GET {{back_Lozgar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
